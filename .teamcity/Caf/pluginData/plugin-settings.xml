@@ -1,5 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <settings>
   <versionedSettings rootId="Caf_HttpsGithubComAicidnnCafGitRefsHeadsMaster" enabled="true" showChanges="false" buildSettings="ALWAYS_USE_CURRENT" />
+  <project-graphs>
+    <graph title="New chart title" defaultFilters="" hideFilters="" id="customGraph1" seriesTitle="Serie">
+      <valueType key="BuildDurationNetTime" title="Build Duration (excluding Checkout Time)" sourceBuildTypeId="Caf_Build" />
+    </graph>
+  </project-graphs>
 </settings>
 
